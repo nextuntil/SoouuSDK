@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using SoouuSDK.Common;
 using SoouuSDK.Request;
@@ -22,7 +22,7 @@ namespace SoouuSDK.Tests {
             Console.WriteLine(goodsGetResponse.ToJson());
             //话费直充
             PhoneOrderAddRequest phoneOrderAddRequest = new PhoneOrderAddRequest {
-                chargephone = "15267165312",
+                chargephone = "18888888888",
                 chargeparvalue = "50",
                 customerorderno="XXX2Q3111",
                 notifyurl = "http://www.baidu.com"
@@ -31,7 +31,7 @@ namespace SoouuSDK.Tests {
             Console.WriteLine(phoneOrderAddResponse.ToJson());
             //流量直充
             TrafficGoodsAddRequest trafficGoodsAddRequest = new TrafficGoodsAddRequest {
-                chargephone = "15267165312",
+                chargephone = "18888888888",
                 chargeparvalue = "1024",
                 areatype = "1",
                 customerorderno = "123456",
@@ -44,7 +44,7 @@ namespace SoouuSDK.Tests {
                 customerorderno=DateTime.Now.ToString("yyyyMMddHHmmssfff"),
                 productid= 1204405,
                 buyerip=HttpUtils.GetAddressIP(),
-                chargeaccount="15267165312",
+                chargeaccount= "18888888888",
                 buynum=1
             };
             OrderAddResponse orderAddResponse = soouuClient.Execute(orderAddRequest);
