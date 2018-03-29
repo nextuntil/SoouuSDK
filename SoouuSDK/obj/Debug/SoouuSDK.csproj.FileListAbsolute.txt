@@ -1,0 +1,6 @@
+D:\SVN_DATA\SoouuSDK\SoouuSDK\SoouuSDK\obj\Debug\SoouuSDK.csproj.CoreCompileInputs.cache
+D:\SVN_DATA\SoouuSDK\SoouuSDK\SoouuSDK\bin\Debug\SoouuSDK.dll
+D:\SVN_DATA\SoouuSDK\SoouuSDK\SoouuSDK\bin\Debug\SoouuSDK.pdb
+D:\SVN_DATA\SoouuSDK\SoouuSDK\SoouuSDK\obj\Debug\SoouuSDK.dll
+D:\SVN_DATA\SoouuSDK\SoouuSDK\SoouuSDK\obj\Debug\SoouuSDK.pdb
+D:\SVN_DATA\SoouuSDK\SoouuSDK\SoouuSDK\obj\Debug\SoouuSDK.csprojResolveAssemblyReference.cache
